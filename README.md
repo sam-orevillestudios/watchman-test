@@ -1,4 +1,4 @@
-# watchman-test conflicting change
+# watchman-test conflicting change 123
 
 add change
 
@@ -9,3 +9,4 @@ new change
 123456
 
 new change
+123
