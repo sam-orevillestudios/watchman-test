@@ -1,4 +1,4 @@
-# watchman-test conflicting change 123456
+# watchman-test conflicting change
 
 hello
 my
